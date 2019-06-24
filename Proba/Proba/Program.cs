@@ -20,6 +20,8 @@ namespace Proba
             {
                 Console.WriteLine("Hello Git!");
             }
+            Console.WriteLine("adsd");
+
         }
     }
 }
