@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proba
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello Git!");
 
@@ -20,8 +20,8 @@ namespace Proba
             {
                 Console.WriteLine("Hello Git!");
             }
-            Console.WriteLine("adsd");
 
+            Console.WriteLine("adsd");
         }
     }
 }
