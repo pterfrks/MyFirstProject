@@ -20,6 +20,9 @@ namespace Proba
             {
                 Console.WriteLine("Hello Git!");
             }
+            int a = 2;
+            int b = 3;
+            Console.WriteLine("a két szám összege: ", a+b );
         }
     }
 }
